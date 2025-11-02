@@ -206,3 +206,18 @@ This project is for educational and analytical purposes.
 - You'll need to provide your own dataset file named `SGJobData.csv` in the same directory as `app.py` when running the Streamlit dashboard.
 - The CSV file should contain columns matching the expected structure (e.g., `title`, `metadata_newPostingDate`, `metadata_originalPostingDate`, `salary_minimum`, `salary_maximum`, `postedCompany_name`, `categories`, etc.).
 
+## Dashboard Screenshots
+
+### Tech Hiring Overview
+![Tech Hiring Overview](images/dashboard-overview.png)
+
+### Job Postings and Salary Trends
+![Job Postings and Salary Trends](images/dashboard-posting-salary.png)
+
+### Tech Job Title Analysis
+![Top Tech Job Titles](images/dashboard-top-tech-jobs.png)
+
+### Industry Dynamics
+![Industry Dynamics](images/dashboard-industry-dynamics.png)
+
+![Top Sectors](images/dashboard-top-sectors.png)
