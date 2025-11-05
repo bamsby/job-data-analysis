@@ -277,7 +277,7 @@ That ratio (~2.7 vacancies per job) suggests *persistent unfilled positions*, pa
   * **Recruitment platform investments** (since inefficiency remains high)
 
 * **Correlated news trends:**
-  This fits MAS and MOM reports from 2023–2024 noting strong demand for software engineers, data analysts, and AI specialists — alongside slower supply growth due to stricter work visa policies. [Source: https://www.straitstimes.com/business/developers-data-scientists-among-hot-jobs-of-2023]
+  This fits MAS and MOM reports from 2023–2024 noting strong demand for software engineers, data analysts, and AI specialists — alongside slower supply growth due to stricter work visa policies. [E.g.: https://www.straitstimes.com/business/developers-data-scientists-among-hot-jobs-of-2023]
 
 ---
 
